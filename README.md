@@ -14,3 +14,9 @@ Or some combination of the three.  Here is a live example focused mainly on the 
 [![G+ pairing session](https://i1.ytimg.com/vi/cosJuCaxEpo/0.jpg?time=1385984846746)](https://www.youtube.com/watch?v=cosJuCaxEpo)
 
 See the [full sequence of code commits for this session](https://github.com/tansaku/StackExercise/commits/master) and each stage in the process can be accessed via git tags step00 to step14.
+
+Notes
+-----
+
+* Need to specify Rspec version?
+* Gemfile?
