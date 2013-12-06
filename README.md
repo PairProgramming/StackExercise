@@ -18,5 +18,5 @@ See the [full sequence of code commits for this session](https://github.com/tans
 Notes
 -----
 
-* Need to add tags
+* rspec version?
 * Gemfile?
